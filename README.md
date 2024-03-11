@@ -1,1 +1,1 @@
-This is a website. Unless theres nothing here yet.
+intended to be a distinctly more coherent portfolio than my hobbysite
